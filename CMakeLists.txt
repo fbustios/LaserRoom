@@ -13,7 +13,7 @@ include_directories(${GLAD_ROOT}/include)
 
 
 set(SOURCES
-        main.cpp
+        src/main.cpp
         ${GLAD_ROOT}/src/glad.c
 )
 
