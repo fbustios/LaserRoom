@@ -7,7 +7,7 @@ vistas en álgebra lineal entonces decidí hacer algo con vectores principalment
 presenta distintas propiedades de vectores, aplicados a una experiencia interactiva. Además servirá como dump de ideas o conceptos que quiero aplicar,
 ahora algebra lineal.
 
-### Instalación
+### Instalación de dependencias
 
 
 ### Pequeña demo
